@@ -1,4 +1,4 @@
-package com;
+package com.anahuac.modulo2.actividades;
 
 import java.util.ArrayList;
 import java.util.HashMap;
